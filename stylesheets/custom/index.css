@@ -1,0 +1,712 @@
+.text-justify{
+    text-align: justify;
+}
+.text-right{
+    text-align: right;
+}
+.az-padding-r-10{
+    padding-right: 10px;
+}
+/*Phan-header*/
+.pix_scroll_menu {
+    display: none;
+}
+.az-custom-img-header{
+    background-color: rgba(0, 0, 0, 0);
+    padding-top: 130px; 
+    padding-bottom: 130px; 
+    box-shadow: none; 
+    border-color: rgb(51, 51, 51); 
+    background-size: cover; 
+    background-attachment: fixed; 
+    background-repeat: repeat; 
+    background-image: url(../../images/uploads/bg1.jpg);
+}
+.az-r1-header{
+    padding-top: 260px !important;
+    background: #006838 url(../../images/uploads/6db7c1fa79199847c108-1539418171.png) no-repeat fixed right; 
+    padding-bottom: 75px;  
+    border-color: rgb(51, 51, 51); 
+    background-size: 50%; 
+}
+.text-custom-align{
+    text-align: left;
+}
+.text-left-custom{
+    text-align: left;
+    width: 55%;
+}
+.pix-white{
+    font-size: 60px;
+    line-height: 70px
+}
+/*Ket-thuc-header*/
+
+/*Phan-diem-nhan*/
+.az-text-r2{
+    font-size: 40px;
+    line-height: 60px;
+    color: #006838;
+    text-transform: capitalize;
+}
+.az-text-r2 strong{
+    text-transform: uppercase;
+    font-size: 60px;
+}
+.img-custom-r2 img{
+    display: block;
+    margin: 0 auto;
+    border-radius: 0px;
+    border-color: rgb(51, 51, 51);
+    border-style: none;
+    border-width: 1px;
+    width: 100%;
+    height: auto;
+    padding-bottom: 82px;
+}
+.az-custom-2 ul li::before{
+    display: table;
+    content: "";
+    background: url(../../images/uploads/leaf.svg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 25px;
+    height: 25px;
+    transform: none;
+    position: absolute;
+    margin-left: -34px;
+    margin-top: 5px;
+}
+.az-custom-2 ul li {
+    list-style: none;
+}
+.az-custom-2 ul{
+    font-size: 18px;
+    line-height: 28px;
+}
+.az-r2-bg2{
+    background: url(../../images/uploads/bag2.jpg) no-repeat bottom;
+    background-size: cover;
+}
+/*Ket-thuc-diem-nhan*/
+
+/*Phan-chat-luong*/
+.az-r3-text h1{
+    color: #006838;
+    font-size: 40px;
+    line-height: 50px;
+
+}
+.az-r3-text h1 strong{
+    font-size: 60px;
+}
+.row.az-text-r3 h6 strong{
+    font-size: 20px;
+}
+.row.az-text-r3 p span{
+    font-size: 16px;
+}
+/*Ket-thuc-chat-luong*/
+
+/*Phan-thanh-phan*/
+.az-img-custom img{
+    border-radius: 0px;
+    border-color: rgb(51, 51, 51);
+    border-style: none;
+    border-width: 1px; 
+    width: 250px;
+    height: 450px;
+    position: absolute;
+    top: 36px;
+    right: 86px
+}
+.az-padding-r4{
+    padding-bottom: 0px;
+}
+.az-bg-img-r4{
+    background: url(../../images/uploads/row3.jpg);
+    background-size: cover;
+}
+.az-text-r4 span{
+    color: #222222;
+}
+.az-custom-r4-text strong{
+    font-size: 40px;
+    color: #006838;
+    line-height: 50px;
+}
+.az-r4-custom .media-body h4 strong{
+    color: #006838;
+}
+.az-custom-r4 .media-body h4 strong{
+    color: #006838;
+}
+.az-img-margin-left{
+    margin-left: 10px;
+}
+/*Ket-thuc-thanh-phan*/
+
+/*Phan-ung-dung*/
+.az-custom-ung-dung{
+    color: #ffffff;
+}
+.az-r5-bg{
+    background: url(../../images/uploads/row4.jpg);
+    background-size: cover;
+}
+.az-custom-4 ul li{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 30px;
+}
+.az-custom-4 ul li{
+    list-style: none;
+}
+.az-custom-4 ul li::before{
+    display: table;
+    content: "";
+    background: url(../../images/uploads/leaf.svg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 25px;
+    height: 25px;
+    transform: none;
+    position: absolute;
+    margin-left: -34px;
+    margin-top: 5px;
+}
+
+.az-r5-custom-text span{
+    font-size: 20px;
+    color: #ffffff;
+}
+.az-custom-ung-dung{
+    font-size: 40px;
+}
+.az-custom-ung-dung strong{
+    font-size: 50px;
+}
+.az-custom-img-r5 img{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
+/*Ket-thuc-ung-dung*/
+
+/*Phan-hieu-qua*/
+.bg-custom-r7{
+    background: url(../../images/uploads/row6.jpg);
+    background-size: cover;
+}
+.az-custom-hieu-qua{
+    font-size: 42px;
+    line-height: 55px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.img-custom-r7 img{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: -30px;
+}
+.az-custom-1 ul li::before{
+    display: table;
+    content: "";
+    background: url(../../images/uploads/leaf.svg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 25px;
+    height: 25px;
+    transform: none;
+    position: absolute;
+    margin-left: -34px;
+    margin-top: 5px;
+}
+.az-custom-1 ul{
+    line-height: 1.6em;
+    font-size: 20px;
+}
+.az-custom-1 ul li{
+    list-style: none;
+    color: #ffffff;
+}
+.az-r7-padding{
+    padding: 30px 0;
+}
+/*Ket-thuc-hieu-qua*/
+
+/*Phan-huong-dan*/
+.az-r8-video iframe{
+    /*max-height: 80%*/
+}
+.az-r8-padding{
+    padding: 30px 0;
+}
+.text-custom-r8 ul li{
+    text-align: left;
+    font-size: 16px;
+    line-height: 30px;
+}
+.text-custom-r8 h1{
+    font-size: 40px;
+    line-height: 50px;
+    color: #006838;
+    text-align: left;
+}
+.text-custom-r8 h1 strong{
+    font-size: 50px;
+}
+/*Ket-thuc-huong-dan*/
+
+/*Phan-r9*/
+.text-custom-r9 h4{
+    text-align: center;
+}
+.text-custom-r9 h1 strong{
+    font-size: 40px;
+    color: #006838;
+}
+.text-custom-r9 h1{
+    line-height: 50px;
+}
+.text-custom-r9 p{
+    text-align: center;
+}
+/*Ket-thuc-r9*/
+
+/*Phan-giam-can*/
+.pix-bg-giamcan{
+    background: url(../../images/uploads/giamcan.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+/*Ket-thuc-giam-can*/
+
+/*Phan-giay-phep*/
+.img-custom-bg-r5{
+    background: url(../../images/uploads/row5.jpg);
+    background-size: cover;
+}
+.text-custom-r5 strong{
+    font-size: 40px;
+    color: #006838;
+}
+.text-custom-r5 h1{
+    text-align: center;
+}
+.text-custom-r5 p span{
+    color: #222222;
+    font-size: 20px;
+}
+.text-custom-r5 ul li{
+    list-style: none;
+    font-size: 18px;
+    line-height: 25px;
+    margin-top: 10px;
+}
+.text-custom-r5 ul li::before{
+    display: table;
+    content: "";
+    background: url(../../images/uploads/leaf.svg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 25px;
+    height: 25px;
+    transform: none;
+    position: absolute;
+    margin-left: -34px;
+    margin-top: 5px;
+}
+.text-r5-custom{
+    font-size: 18px;
+    line-height: 25px;
+    color: #252C30;
+}
+/*Ket-thuc-giay-phep*/
+
+/*phan-icon-tren*/
+.pixicon-trophy2:before {
+    content: " " !important;
+    background: url(../../images/uploads/chat-luong.png);
+    display: inline-block;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+.pixicon-support:before {
+     content: " " !important;
+    background: url(../../images/uploads/san-pham.png);
+    display: inline-block;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+.pixicon-store:before{
+     content: " " !important;
+    background: url(../../images/uploads/nguon-goc.png);
+    display: inline-block;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+.pixicon-dashboard:before{
+     content: " " !important;
+    background: url(../../images/uploads/day-chuyen-san-xuat.png);
+    display: inline-block;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+.pixicon-image2:before{
+     content: " " !important;
+    background: url(../../images/uploads/thanh-phan.png);
+    display: inline-block;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+.pixicon-heart4:before{
+      content: " " !important;
+    background: url(../../images/uploads/suc-khoe.png);
+    display: inline-block;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+
+/*ket-thuc-icon-phan-tren*/
+/* phan-icon-phan-duoi*/
+.tinhnghe-bg{
+    background: url(../../images/uploads/tinh-nghe.png);
+    background-size: cover;
+}
+.tinhdaubuoi-bg{
+    background: url(../../images/uploads/tinh-dau-buoi-2.png);
+    background-size: cover;
+}
+.chevang-bg{
+    background: url(../../images/uploads/che-vang.png);
+    background-size: cover;
+}
+.linhchivang-bg{
+    background: url(../../images/uploads/linh-chi-vang.png);
+    background-size: cover;
+}
+.quyetminhtu-bg{
+    background: url(../../images/uploads/quyet-minh-tu.png);
+    background-size: cover;
+}
+.giaocolam-bg{
+    background: url(../../images/uploads/giao-co-lam-2.png);
+    background-size: cover;
+}
+/* ket-thuc-icon-phan-duoi*/
+
+.text-white{
+    color: #fff;
+}
+.textkhachhang{
+    font-size: 40px;
+    color: #006838;
+}
+.khachhangtindung{
+    border: 1px solid #eeeeef;
+    background-color: #eeeeef;
+    padding: 35px;
+
+}
+.owl-carousel .owl-item img {
+    display: block;
+    width: 70% !important;
+}
+.namekh{
+    font-weight: bold;
+}
+.green-bg{
+    background-color: #006838;
+}
+.bg-11{
+    background: url(../../images/uploads/row11.jpg);
+    background-size: cover;
+
+}
+.text-green{
+    color: #006838;
+}
+.yellow-neon-bg{
+    background: #f7941d;
+}
+.btn.btn-lg {
+    padding: 0px 30px;
+}
+.textonform {
+    font-size: 40px;
+}
+h2 {
+    line-height: 46px;
+}
+.text-green-white{
+    color: #82c040;
+}
+.img-lieu-trinh img {
+    width: 100%;
+}
+
+.btn:not(.pix-line):not(.btn-flat):not(.btn-link):hover {
+    box-shadow: none;
+}
+
+.az-btn-custom img{
+    border-radius: 10px;
+}
+
+.az-btn-custom .az-price-custom{
+    font-size: 40px;
+}
+.custom-text-az{
+    font-size: 35px;
+}
+.text-footer-custom{
+    color: rgb(255, 255, 255); 
+    font-size: 20px; 
+    background-color: rgba(0, 0, 0, 0); 
+    font-family: Open Sans, sans-serif;
+}
+.img-custom-r12{
+    padding: 20px 0px;
+}
+.owl-stage-outer h6{
+    margin-top: -13px;
+}
+.az-custom-5 ul li::before{
+    display: table;
+    content: "";
+    background: url(../../images/uploads/leaf.svg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 25px;
+    height: 25px;
+    transform: none;
+    position: absolute;
+    margin-left: -34px;
+    margin-top: 5px;
+}
+.az-custom-5 ul li{
+    list-style: none;
+}
+
+
+@media screen and (max-width: 768px){
+    .text-left-custom{
+        width: 100%;
+    }
+    .az-img-custom img{
+        position: relative;
+        top: 0px;
+        right: -40px;
+    }
+    .az-padding-r4{
+        padding-bottom: 40px;
+    }
+    .img-custom-r2 img{
+        padding-bottom: 0px;
+    }
+    .pix_nav_menu.pix-over-header{
+         background: none !important;
+    }
+    .navbar-default .navbar-toggle{
+        display: none;
+    }
+    .az-r1-header{
+        padding-top: 160px !important;
+        background-size: contain;
+        padding-bottom: 0px;
+    }
+    h1.az-heading-r1{
+        font-size: 33px;
+        line-height: 1.2em;
+    }
+    .navbar-header {
+        border-bottom: none;
+    }
+    .az-custom-r4-text strong{
+        font-size: 29px;
+        line-height: 30px;
+    }
+    h1.az-heading-r4{
+        font-size: 40px;
+        line-height: 1.2em;
+    }
+    .az-padding-bottom-none{
+        padding-bottom: 0px;
+    }
+    .az-text-r2{
+        font-size: 30px;
+        line-height: 1.2em;
+    }
+    .az-text-r2 strong{
+        font-size: 40px;
+    }
+    .az-r3-text h1 strong {
+        font-size: 30px;
+    }
+    .az-r3-text h1 {
+        color: #006838;
+        font-size: 20px;
+        line-height: 1.2em;
+    }
+    .az-heading-r3-h5{
+        font-size: 18px;
+    }
+    .media-left {
+        padding-right: 0px;
+        padding-left: 10px;
+    }
+    .az-padding-r-10{
+        padding-right: 10px;
+    }
+    .az-custom-ung-dung{
+        font-size: 30px;
+    }
+    .az-custom-ung-dung strong{
+        font-size: 40px;
+    }
+    .text-custom-r5 h1 strong{
+        font-size: 30px;
+    }
+    .az-custom-hieu-qua{
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .text-custom-r8 h1{
+        font-size: 25px;
+        padding-top: 30px;
+    }
+    .text-custom-r8 h1 strong{
+        font-size: 40px;
+    }
+    .text-custom-r9 h1 strong{
+        font-size: 32px;
+        line-height: 30px;
+    }
+    .text-custom-r9 h1{
+        line-height: 35px;
+    }
+    .az-btn-custom .custom-btn {
+        padding-left: 34px;
+        padding-right: 46px;
+    }
+    .az-btn-custom .az-price-custom{
+        font-size: 35px;
+    }
+    .text-custom-lieutrinh{
+        font-size: 35px;
+    }
+    .textonform{
+        font-size: 28px;
+    }
+    .custom-text-az{
+        font-size: 26px;
+        line-height: 1.6em
+    }
+    .textkhachhang{
+        font-size: 24px;
+        line-height: 1.6em;
+    }
+    .text-footer-custom{
+        font-size: 15px;
+    }
+    .az-r1-header{
+        background: #006838;
+    }
+    .pix-travel-highlight-1{
+        background: url(../../images/uploads/giamcan.jpg) center right;
+        background-size: cover;
+    }
+    .owl-carousel .owl-item img{
+        margin: 0 auto;
+    }
+    .owl-item-custom{
+        padding-bottom: 30px;
+    }
+    .owl-stage-outer h6{
+        margin-top: -13px;
+    }
+    .text-custom-az{
+        line-height: 35px;
+    }
+    .custom-az-text{
+        line-height: 32px;
+    }
+    .custom-padding-30{
+        padding: 30px 0;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .az-btn-custom .az-price-custom{
+        font-size: 30px;
+    }
+    .az-btn-custom .custom-btn {
+        margin-left: -26px;
+    }
+    .text-custom-lieutrinh{
+        font-size: 30px;
+    }
+    .custom-text-az{
+        font-size: 23px;
+    }
+    .textkhachhang{
+        font-size: 35px;
+    }
+    .text-custom-r9 h1 strong {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .textonform {
+        font-size: 33px;
+    }
+    .img-custom-r2 img{
+        padding-bottom: 0px;
+    }
+    .az-r1-header{
+        background: #006838;
+    }
+    .az-text-r2 strong{
+        font-size: 30px;
+    }
+    .az-r3-text h1{
+        font-size: 18px;
+        line-height: 1.6em;
+    }
+    h1.az-heading-r4{
+        line-height: 0.2em;
+    }
+    .az-custom-ung-dung strong{
+        font-size: 30px;
+    }
+    .text-custom-r5 h1 strong{
+        font-size: 25px;
+    }
+    .text-custom-r8 h1 strong{
+        font-size: 29px;
+    }
+    .text-custom-r8 h1{
+        line-height: 1.6em;
+    }
+    .text-custom-r9 h1{
+        line-height: 20px;
+    }
+    .textkhachhang{
+        line-height: 37px;
+    }
+    .text-footer-custom{
+        font-size: 14px;
+    }
+}
+@media (min-width: 1200px){
+    .az-row1 .az-logo-pc{
+        height: 150px;
+    }
+}
